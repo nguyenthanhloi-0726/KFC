@@ -1,0 +1,108 @@
+#logo > img {
+    width: 100px;
+    height: auto;
+}
+
+#logo > h1 {
+    color: white;
+    background-color: red;
+}
+
+#nav {
+    font-size: 20px;
+}
+
+#nav > ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.about-KFC {
+    background-color: brown;
+    color: white;
+    text-align: justify;
+    display: block;
+}
+
+.about-KFC > h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+#introd-KFC > p {
+    font-size: 30px;
+}
+
+#introd-KFC b {
+    color: black;
+}
+
+#introd-KFC > img {
+    width: 50%;
+}
+
+#timeline-KFC > ul {
+    font-size: 25px;
+}
+
+#timeline-KFC > img {
+    width: 50%;
+}
+
+#price-drinks > h2 {
+    text-align: center;
+    font-size: 32px;
+}
+
+#price-drinks > table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#price-drinks > table {
+    width: 900px;
+    height: 800px;
+    margin: 0 auto;
+}
+
+#price-drinks > table td#drink-greenTea {
+    background-image: url('../img/greentea.jpg');
+    text-align: right;
+}
+
+#price-drinks > table td#drink-blackTea {
+    background-image: url('../img/blacktea.jpg')
+}
+
+#price-drinks > table td#drink-olongTea {
+    background-image: url('../img/olongtea.jpg');
+    text-align: left;
+}
+
+#price-drinks > table td#drink-fruitTea {
+    background-image: url('../img/fruit.jpg')
+}
+
+#price-drinks > table td#drink-milkTea {
+    background-image: url('../img/milktea.png')
+}
+
+#price-drinks > table td.hot{
+    text-align: left;
+}
+
+#price-drinks > table td.cold{
+    text-align: right;
+}
+
+#price-drinks > table td.only{
+    text-align: center;
+}
+
+#price-drinks > table td.fruitTea-type, td.milkTea-type {
+    text-align: left;
+}
+
+#price-drinks > table td.milkTea-price {
+    text-align: left;
+}

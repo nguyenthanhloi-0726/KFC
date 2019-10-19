@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+#KFC-promotion {
+    width: 60%;
+    background-color: white;
+    font-size: 20px;
+}
+
+#KFC-promotion > h2 {
+    font-size: 40px;
+    color: brown;
+    text-align: center;
+}
+
+#KFC-promotion > img {
+    width: 100%;
+}
